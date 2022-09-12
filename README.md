@@ -80,7 +80,6 @@ The easiest way to measure a resistive sensor is to connect one end to power and
  * your name P.Sarveshvaran
  * department and year AI&DS 2nd year
 
-
 int sensorvalue=A0;
 int newton;
 void setup()
@@ -98,9 +97,8 @@ void loop()
  delay(1000);
 }
 
-
 ### TABLE -02 standard deviation table 
-![image](robo ass2.png)
+![image](robopic1.png)
 ### Population Standard Deviation
 The population standard deviation, the standard definition of σ, is used when an entire population can be measured, and is the square root of the variance of a given data set. In cases where every member of a population can be sampled, the following equation can be used to find the standard deviation of the entire population:
 
